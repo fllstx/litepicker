@@ -1,5 +1,5 @@
 {
-  "name": "litepicker",
+  "name": "@fullstax/litepicker",
   "version": "1.5.7",
   "description": "Date range picker - lightweight, no dependencies",
   "main": "./dist/js/main.js",
@@ -23,16 +23,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wakirin/litepicker.git"
+    "url": "https://github.com/fllstx/litepicker.git"
   },
   "author": {
     "name": "Rinat G.",
     "email": "litepicker@lvl.ninja",
     "url": "https://lvl.ninja"
   },
-  "homepage": "https://github.com/wakirin/litepicker#readme",
+  "homepage": "https://github.com/fllstx/litepicker#readme",
   "bugs": {
-    "url": "https://github.com/wakirin/litepicker/issues"
+    "url": "https://github.com/fllstx/litepicker/issues"
   },
   "license": "MIT",
   "devDependencies": {
